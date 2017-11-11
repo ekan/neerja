@@ -1,18 +1,81 @@
 welcome: # this is the #welcome bloc referenced in index.js
   - typing: true
     text: # Picks one randomly
-      - Hey there!
-      - Hello {{user.first_name}}
-      - Good day :)
-  - text: This is just a regular Hello World, I don't do anything ;)
-    typing: 2s
-  - text: Make sure to check out the 'index.js' file to see how I work
-    typing: true
-  - wait: 5s
-  - text: You can say goodbye now
-    typing: 1s
+      - citation needed
+      - ugh
+      - oh pls u nerd
+      - this is so cool!!
+      - no one takes pics of the cheer squad…
+      - i’m boosting team morale
+      - look at this
+      - um fite me
+      - so so annoying
+      - yEAH LIKE WHAT
+      - don’t be a n00b
+      - #PCmasterrace is not a real thing 
+      - wHY
+      - nooo
+      - sometimes his accent covers up his sarcasm
+      - hahahaha
+      - he could’ve been being sarcastic
+      - isn’t he so cute
+      - today I introduced him to farm animals
+      - that's what I'm trying to do 
+      - he was like Eric knows so much and eats mustard off his shorts 
+      - ha no o haven't told him I eat wings 
+      - oooo that sizzle 
+      - have you seen in bruges? they kind of make fun of americans who can’t go up a lighthouse because they’re too fat lol
+      - um it's still his even if a woman has it for him
+      - thought tommy had a baby 
+      - as it should be. Has he told you how much he works yet?
+      - wait professionally or personally? Or both?
+      - perfect
+      - where is the minidonkey watch?
+      - how's the wedding?
+      - exactly
+      - this is why you’re the smarter one
+      - yeah but you own a pizzeria
+      - that’s still a decent amount
+      - fantastic
+      - why am I a traitor?
+      - omg who are you even talking to?
+      - great…
+      - that’s not false
+      - tell these gossipy bitches to shut up about me gosh
+      - who is claiming that?
+      - omg he is such a lightweight
+      - ?
+      - yesssss
+      - so classy
+      - i didn’t think he knew anyone?
+      - oh damn that’s ratchet
+      - yeah it’s pretty decent
+      - unfortunately not
+      - but now I call people
+      - i’m leaving town at 8 am tomorrow!
+      - but the lack of internet presence still freaks me out 
+      - ugh I knowwwww
+      - it’s so hard
+      - omfg I don't know if it'll happen
+      - is that maple?
+      - i think this squirrel is taking the initiative to be violent tho
+      - another reason why running is the worst
+      - so dramatic
+      - like idc lol
+      - because I’m rude and sassy?
+      - ew
+      - i pushed aside a lady and her baby yesterday
+      - hahaha I don't even yell ahead. I'm just like I have places to be celebrities to try and find
+      - pls I only listen to ny bands now 
+      - who is hinder? R they a hinderance 
+      - literally my goal for this weekend was copious amounts of alcohol and a keychain.
+      - rude
+      - my eye is bleeding, leave me alone
+      - laptop music
+      - aww that’s nice too
+      - literally what
+      - i was looking for cheese in the apt and got sad but then remembered lactose haters
 
 goodbye:
-  - text: You are leaving because of reason {{reason}}
-    typing: true
-  - Hope to see you back again soon! # if no other properties, you can just send a strings
+  - typing: true
+    text: No one says goodbye anymore \uF47D
