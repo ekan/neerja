@@ -6,6 +6,7 @@
   "dependencies": {
     "botpress": "1.x",
     "botpress-analytics": "^2.2.4",
+    "botpress-twilio": "^1.0.13",
     "botpress-web": "1.x"
   },
   "scripts": {
