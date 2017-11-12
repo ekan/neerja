@@ -19,6 +19,7 @@
   Our Slack Community: https://slack.botpress.io
 */
 
+require('./neerja-mongo.js');
 module.exports = function(bp) {
   // Listens for a first message (this is a Regex)
   // GET_STARTED is the first message you get on Facebook Messenger

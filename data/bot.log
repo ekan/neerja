@@ -299,3 +299,203 @@
 {"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-11T23:38:20.390Z"}
 {"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-11T23:38:20.396Z"}
 {"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-11T23:38:25.416Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-11T23:43:25.564Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-11T23:46:34.371Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-11T23:46:34.855Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-11T23:46:35.362Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-11T23:46:35.364Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-11T23:46:35.365Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-11T23:46:35.365Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-11T23:46:35.378Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-11T23:46:35.378Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-11T23:46:35.379Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-11T23:46:35.379Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-11T23:46:35.379Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-11T23:46:35.380Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-11T23:46:35.380Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-11T23:46:35.380Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-11T23:46:35.428Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-11T23:46:35.431Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-11T23:48:30.487Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:19:54.230Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:24:59.334Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:29:59.500Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:34:59.671Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:40:03.690Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:45:03.833Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:50:03.961Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T00:55:04.177Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T01:00:04.306Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T02:12:04.525Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T07:54:20.569Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T07:59:28.282Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:04:28.437Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:09:28.598Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:14:33.661Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:19:33.787Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:24:33.927Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:29:34.070Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:34:34.221Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:39:34.379Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T08:44:34.541Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T16:41:51.028Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T16:48:49.865Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:02:32.597Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:07:34.373Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:12:39.539Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:17:44.680Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:22:49.761Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:27:54.910Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:32:55.066Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:37:55.211Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:42:55.366Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T20:48:00.507Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:40:19.196Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:40:19.653Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:40:20.197Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:40:20.202Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:40:20.202Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:40:20.202Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:40:20.218Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:40:20.218Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:40:20.218Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:40:20.219Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:40:20.219Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:40:20.219Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:40:20.220Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:40:20.220Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:40:20.339Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:40:20.343Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T21:40:25.352Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:45:03.861Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:45:04.316Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:45:04.895Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:45:04.898Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:45:04.898Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:45:04.898Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:45:04.913Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:45:04.914Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:45:04.914Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:45:04.914Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:45:04.914Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:45:04.915Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:45:04.915Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:45:04.915Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:45:05.009Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:45:05.013Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T21:45:30.118Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:49:02.195Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:49:02.643Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:49:03.207Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:49:03.210Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:49:03.211Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:49:03.211Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:49:03.226Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:49:03.227Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:49:03.228Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:49:03.228Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:49:03.229Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:49:03.230Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:49:03.231Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:49:03.232Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:49:03.278Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:49:03.283Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:50:01.675Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:50:01.980Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:50:02.346Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:50:02.350Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:50:02.350Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:50:02.351Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:50:02.365Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:50:02.365Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:50:02.365Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:50:02.366Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:50:02.366Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:50:02.366Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:50:02.366Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:50:02.366Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:50:02.518Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:50:02.525Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:50:18.698Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:50:19.008Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:50:19.345Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:50:19.349Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:50:19.349Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:50:19.349Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:50:19.364Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:50:19.365Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:50:19.365Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:50:19.365Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:50:19.365Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:50:19.366Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:50:19.366Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:50:19.367Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:50:19.761Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:50:19.766Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T21:50:34.771Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T21:55:39.905Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:57:33.889Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:57:34.307Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:57:34.845Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:57:34.848Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:57:34.849Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:57:34.849Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:57:34.863Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:57:34.863Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:57:34.864Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:57:34.864Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:57:34.864Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:57:34.865Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:57:34.865Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:57:34.865Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:57:35.236Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:57:35.240Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T21:58:14.686Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T21:58:15.114Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T21:58:15.669Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T21:58:15.674Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T21:58:15.674Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T21:58:15.674Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T21:58:15.690Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T21:58:15.692Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T21:58:15.692Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T21:58:15.693Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T21:58:15.694Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T21:58:15.695Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T21:58:15.695Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T21:58:15.696Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T21:58:16.072Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T21:58:16.080Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T22:00:02.613Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T22:00:03.024Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T22:00:03.578Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T22:00:03.581Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T22:00:03.581Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T22:00:03.581Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T22:00:03.596Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T22:00:03.596Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T22:00:03.596Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T22:00:03.596Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T22:00:03.597Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T22:00:03.597Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T22:00:03.597Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T22:00:03.598Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T22:00:03.985Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T22:00:03.998Z"}
+{"level":"info","message":"Starting botpress version 1.1.10","timestamp":"2017-11-12T22:00:37.458Z"}
+{"level":"info","message":"Loaded botpress-analytics, version 2.2.4","timestamp":"2017-11-12T22:00:37.733Z"}
+{"level":"info","message":"Loaded botpress-twilio, version 1.0.13","timestamp":"2017-11-12T22:00:38.260Z"}
+{"level":"verbose","message":"[UMM] Enabled for web","timestamp":"2017-11-12T22:00:38.264Z"}
+{"level":"info","message":"Loaded botpress-web, version 1.2.3","timestamp":"2017-11-12T22:00:38.264Z"}
+{"level":"info","message":"Loaded 3 modules","timestamp":"2017-11-12T22:00:38.264Z"}
+{"level":"debug","message":"Loading middleware: analytics.outgoing","timestamp":"2017-11-12T22:00:38.278Z"}
+{"level":"debug","message":"Loading middleware: UMM.instrumentation","timestamp":"2017-11-12T22:00:38.279Z"}
+{"level":"debug","message":"Loading middleware: analytics.incoming","timestamp":"2017-11-12T22:00:38.279Z"}
+{"level":"debug","message":"Loading middleware: hear","timestamp":"2017-11-12T22:00:38.279Z"}
+{"level":"debug","message":"Loading middleware: conversations","timestamp":"2017-11-12T22:00:38.280Z"}
+{"level":"debug","message":"Loading middleware: twilio.sendSms","timestamp":"2017-11-12T22:00:38.280Z"}
+{"level":"debug","message":"Loading middleware: web.sendMessages","timestamp":"2017-11-12T22:00:38.280Z"}
+{"level":"debug","message":"Loading middleware: fallback","timestamp":"2017-11-12T22:00:38.280Z"}
+{"level":"info","message":"\u001b[32m\u001b[1mBot launched. Visit: http://localhost:3000\u001b[22m\u001b[39m","timestamp":"2017-11-12T22:00:38.629Z"}
+{"level":"verbose","message":"[UMM] Enabled for twilio","timestamp":"2017-11-12T22:00:38.634Z"}
+{"level":"debug","message":"botpress-analytics: recompiling analytics","timestamp":"2017-11-12T22:00:43.644Z"}
