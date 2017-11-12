@@ -29,7 +29,7 @@ module.exports = function(bp) {
 
   bp.hear({
     type: /message|text/i,
-    text: /yo|what\'s up|sup|whats up|what|test|hey|dude|yo/i,
+    text: /what\'s up|sup|whats up|what|test|hey|dude|yo/i,
   }, (event, next) => {
     event.reply('#welcome')
   })
