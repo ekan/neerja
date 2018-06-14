@@ -1,26 +1,23 @@
 {
   "name": "neerja",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "botpress": "1.x",
-    "botpress-analytics": "^2.2.4",
-    "botpress-twilio": "^1.0.13",
-    "botpress-web": "1.x",
-    "npm": "^5.5.1",
-    "pg": "^7.4.0",
-    "react": "^16.1.0",
-    "react-codemirror": "^1.0.0",
-    "react-dom": "^16.1.0",
-    "react-jsonschema-form": "^1.0.0",
-    "sqlite3": "^3.1.13"
+    "express": "^4.16.3"
   },
+  "devDependencies": {},
   "scripts": {
-    "start": "botpress start",
-    "start-env": "bin/www",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekan/neerja.git"
   },
   "author": "",
-  "license": "Botpress Proprietary License"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekan/neerja/issues"
+  },
+  "homepage": "https://github.com/ekan/neerja#readme"
 }
