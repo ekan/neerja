@@ -9,6 +9,9 @@ module.exports = {
     // interface or API
     twilioNumber: process.env.TWILIO_NUMBER,
 
+    // Mongo url
+    mongoURL: process.env.MONGO_URL || 'localhost/twilioDB',
+
     // The port your web application will run on
     port: process.env.PORT || 3000,
 }

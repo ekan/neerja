@@ -14,7 +14,9 @@ const { Readable } = require('stream');
  * Connect Mongo Driver to MongoDB.
  */
 let db;
-MongoClient.connect('mongodb://localhost/twilioDB', (err, database) => {
+const mongoURL = process.env.mongoURL;
+console.error(mongoURL)
+MongoClient.connect(`mongodb://${mongoURL}`, (err, database) => {
   if (err) {
     console.error('MongoDB Connection Error. Please make sure that MongoDB is running.');
     process.exit(1);
