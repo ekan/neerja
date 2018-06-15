@@ -1,6 +1,27 @@
 var express = require('express');
 var router = express.Router();
 
+const mongodb = require('mongodb');
+const MongoClient = require('mongodb').MongoClient;
+const ObjectID = require('mongodb').ObjectID;
+
+/**
+ * NodeJS Module dependencies.
+ */
+const { Readable } = require('stream');
+
+/**
+ * Connect Mongo Driver to MongoDB.
+ */
+let db;
+MongoClient.connect('mongodb://localhost/twilioDB', (err, database) => {
+  if (err) {
+    console.error('MongoDB Connection Error. Please make sure that MongoDB is running.');
+    process.exit(1);
+  }
+  db = database;
+});
+
 // const twilio = require('twilio')
 // var config = require('../config');
 // var client = twilio(config.accountSid, config.authToken);
