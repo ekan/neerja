@@ -5,6 +5,10 @@ const mongodb = require('mongodb');
 const MongoClient = require('mongodb').MongoClient;
 const ObjectID = require('mongodb').ObjectID;
 
+if (process.env.NODE_ENV !== 'production') {
+  require('dotenv').load();
+}
+
 /**
  * NodeJS Module dependencies.
  */
@@ -17,7 +21,14 @@ const { Readable } = require('stream');
 var config = JSON.parse(process.env.APP_CONFIG);
 let db;
 const mongoPassword = 'secretmongopassword'
-MongoClient.connect(`mongodb://${config.mongo.user}:${encodeURIComponent(mongoPassword)}@${config.mongo.hostString}`, (err, database) => {
+let mongoURL;
+if (process.env.NODE_ENV === 'production') {
+  mongoURL = `mongodb://${config.mongo.user}:${encodeURIComponent(mongoPassword)}@${config.mongo.hostString}`;
+}
+else {
+  mongoURL = "mongodb://localhost:27017/";
+}
+MongoClient.connect(mongoURL, (err, database) => {
   if (err) {
     console.error('MongoDB Connection Error. Please make sure that MongoDB is running.');
     process.exit(1);
