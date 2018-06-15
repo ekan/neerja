@@ -13,10 +13,11 @@ const { Readable } = require('stream');
 /**
  * Connect Mongo Driver to MongoDB.
  */
+
+var config = JSON.parse(process.env.APP_CONFIG);
 let db;
-const mongoURL = process.env.MONGO_URL;
-console.error(mongoURL)
-MongoClient.connect(`mongodb://${mongoURL}`, (err, database) => {
+const mongoPassword = 'secretmongopassword'
+MongoClient.connect(`mongodb://${config.mongo.user}:${encodeURIComponent(mongoPassword)}@${config.mongo.hostString}`, (err, database) => {
   if (err) {
     console.error('MongoDB Connection Error. Please make sure that MongoDB is running.');
     process.exit(1);
