@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node ./app/bin/www"
   },
   "repository": {
     "type": "git",

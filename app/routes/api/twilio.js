@@ -1,17 +1,26 @@
 var express = require('express');
 var router = express.Router();
 
+// const twilio = require('twilio')
+// var config = require('../config');
+// var client = twilio(config.accountSid, config.authToken);
+
 const MessagingResponse = require('twilio').twiml.MessagingResponse;
 
 /* POST /api/sms listing. */
 
 router.post('/sms', (req, res) => {
-  const twiml = new MessagingResponse();
+  // Start our TwiML response.
+  const twiml = new MessagingResponse();
 
-  twiml.message('The Robots are coming! Head for the hills!');
+  // Add a text message.
+  const msg = twiml.message('Check out this sweet owl!');
 
-  res.writeHead(200, {'Content-Type': 'text/xml'});
-  res.end(twiml.toString());
+  // Add a picture message.
+  msg.media('https://demo.twilio.com/owl.png');
+
+  res.writeHead(200, {'Content-Type': 'text/xml'});
+  res.end(twiml.toString());
 })
 
 module.exports = router;
