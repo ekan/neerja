@@ -14,7 +14,7 @@ const { Readable } = require('stream');
  * Connect Mongo Driver to MongoDB.
  */
 let db;
-const mongoURL = process.env.mongoURL;
+const mongoURL = process.env.MONGO_URL;
 console.error(mongoURL)
 MongoClient.connect(`mongodb://${mongoURL}`, (err, database) => {
   if (err) {
